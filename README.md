@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=ism16&label=Profile%20views&color=0e75b6&style=flat" alt="ism16" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ism16&label=Profile%20views&color=0e75b6&style=flat" alt="ism16" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ismael"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/kodark"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/jcasarru"><img src="https://img.shields.io/badge/hacker%20rank-2EC866.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,10 +41,11 @@
 
 ---
 <h3 align="left">GitHub stats::</h3>
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ism16&theme=tokyonight&count_private=true&show_icons=true&locale=en&layout=compact" alt="ism16" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ism16&theme=tokyonight&count_private=true&show_icons=true&locale=en&layout=compact" alt="ism16" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ism16&theme=tokyonight&count_private=true&show_icons=true&locale=en" alt="ism16" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ism16&theme=tokyonight&count_private=true&show_icons=true&locale=en" alt="ism16" />
+</div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ism16&" alt="ism16" /></p> -->
 
